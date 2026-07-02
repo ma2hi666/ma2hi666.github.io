@@ -1,6 +1,6 @@
 # 马志年个人学术主页
 
-这是一个可直接部署到 GitHub Pages 的中文个人主页，面向科研展示与腾讯犀牛鸟开源人才培养计划申请。
+这是一个可直接部署到 GitHub Pages 的中文个人主页，面向科研展示、项目经历整理与个人简历展示。
 
 ## 文件结构
 
@@ -11,7 +11,6 @@
 │   ├── css
 │   │   └── style.css
 │   └── docs
-│       ├── application-tencentdb-agent-memory.pdf
 │       └── resume-ma-zhinian.docx
 └── README.md
 ```
