@@ -11,7 +11,7 @@
 │   ├── css
 │   │   └── style.css
 │   └── docs
-│       └── resume-ma-zhinian.docx
+│       └── fushi-resume-ma-zhinian.docx
 └── README.md
 ```
 
